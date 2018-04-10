@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "512921200605",
+    "firebase_url": "https://lab4-1-android-login.firebaseio.com",
+    "project_id": "lab4-1-android-login",
+    "storage_bucket": "lab4-1-android-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512921200605:android:426ed169f2c6ae56",
+        "android_client_info": {
+          "package_name": "com.example.brandrews.lab4_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512921200605-fekkf5iapcgprgrisi9avfoi5887hgpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brandrews.lab4_1",
+            "certificate_hash": "2ffeaba67ac9fdbe3873d003326386f7a5a3415d"
+          }
+        },
+        {
+          "client_id": "512921200605-lmbr1qvtqh42td5vj1m4h6o0dpkes0qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCpfdsdDqNB-HGJ2BjoDz4pW0PIVjlD-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512921200605-lmbr1qvtqh42td5vj1m4h6o0dpkes0qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
